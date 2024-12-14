@@ -1,4 +1,4 @@
-# Task of Intership assigned by Oasis Infobyte
+# Task of Internship assigned by Oasis Infobyte
 
 - Todo App : https://github.com/deveshwadibhasme/todo-react
 
